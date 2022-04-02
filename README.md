@@ -1,1 +1,1 @@
-# payment-service
+# spring-payment-service
